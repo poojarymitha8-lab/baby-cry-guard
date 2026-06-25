@@ -3,11 +3,11 @@
 Baby Cry Guard is a smart baby monitoring application designed to assist parents in caring for their infants. The system monitors baby crying activity, automatically plays soothing lullaby music when crying is detected, and sends alerts to parents if the baby continues crying for a prolonged period.
 
 ## Features
-* 🎵 Automatic lullaby music playback when crying is detected
-* 📢 Parent alert notifications for continuous crying
-* 📊 Cry session monitoring and tracking
-* 👨‍👩‍👧 Easy-to-use interface for parents
-* 📝 History management for cry sessions
+*  Automatic lullaby music playback when crying is detected
+*  Parent alert notifications for continuous crying
+*  Cry session monitoring and tracking
+*  Easy-to-use interface for parents
+*  History management for cry sessions
 
 ## Tech Stack
 ### Frontend
